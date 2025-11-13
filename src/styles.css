@@ -1,0 +1,5 @@
+/* Arquivo de estilos básico. Para desenvolvimento usamos CDN do Tailwind em index.html */
+html, body {
+  height: 100%;
+  margin: 0;
+}
